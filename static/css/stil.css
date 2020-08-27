@@ -6,6 +6,8 @@ body {
   background: #234;
   width: 100%;
   height: 100vh;
+}
+.centru {
   display: flex;
   justify-content: center;
   align-items: center;
