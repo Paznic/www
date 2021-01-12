@@ -1,5 +1,7 @@
 
-var dataStart = new Date("Jul 06, 2020 00:00:00").getTime();
+// var dataStart = new Date("Jul 06, 2020 00:00:00").getTime(); #111+
+var dataStart = new Date("01 01, 2021 00:00:00").getTime();
+
 var numără = setInterval(function() {
   let acum = new Date().getTime();
   let t = acum - dataStart;
